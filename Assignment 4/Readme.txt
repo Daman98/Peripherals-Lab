@@ -17,7 +17,7 @@ Steps to Run -
 
 The folder consist of two files-
 
-	1. Assingment 3.1
+	1. Assingment 4.1
 		a. Connect the ADC convertor and stepper motor to the board via the 8255 ports on the board.
 		b. Connect the Oscilloscope to the ADC Convertor.
 		c. Turn on the oscilloscope, turn on output, set the value to 0
@@ -28,7 +28,7 @@ The folder consist of two files-
 		h. The values are to be given from 0V to 4.75V only.
 		i. Also the converted digital output is shown on the data display of the board and channel number on the address display.
 
-	2. Assignment 3.2
+	2. Assignment 4.2
 		a. Connect the ADC convertor and stepper motor to the board via the 8255 ports on the board.
 		b. Connect the Oscilloscope to the ADC Convertor.
 		c. Turn on the oscilloscope, turn on output, set the value to 0.
